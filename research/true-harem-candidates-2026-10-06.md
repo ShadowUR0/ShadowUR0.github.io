@@ -172,3 +172,65 @@ High priority because the source list already supplies a content class.
 2. Verify ending evidence for Section C novels.
 3. Resolve game metadata from Steam/VNDB/IGDB where possible.
 4. Only after that generate an import-ready JSON; do not touch public data.js before review.
+
+
+## Manual continuation after automation failure — verified findings
+
+### STRONG — The Undefeatable Swordsman
+- Media: KR Web Novel + completed Manhwa adaptation.
+- NovelUpdates: completed at 253 chapters and tagged **Polygamy**.
+- Primary ending evidence: epilogue explicitly refers to Princess Mok Yong as Woo-Moon's **last wife**, and his children talk about their multiple "mommies".
+- AniList: manhwa `Bulpaegeomseon`, ID 120907, **Finished**, 309 chapters.
+- Decision:
+  - Novel: **confirmed True Harem**.
+  - Manhwa: **high-priority source-only candidate** until the manhwa's own ending is checked against the novel ending.
+- Sources:
+  - https://www.novelupdates.com/series/the-undefeatable-swordsman/
+  - https://freewebnovel.com/novel/the-undefeatable-swordsman/chapter-255
+  - https://anilist.co/manga/120907/Bulpaegeomseon
+
+### STRONG — Garbage Brave
+- Media: JP Light Novel + Manga.
+- NovelUpdates polygamy recommendation lists describe the completed LN as an actual polygamous harem ending, with roughly 4–7 wives.
+- AniList LN ID 118316: Finished, 4 volumes / 35 chapters.
+- AniList Manga ID 117964: Releasing, adapts the completed LN.
+- Decision:
+  - Light Novel: **strong confirmed candidate**; collect one direct ending/wedding source before public import.
+  - Manga: **source-only** if added before adaptation reaches/keeps the ending.
+- Sources:
+  - https://www.novelupdates.com/viewlist/84187/
+  - https://anilist.co/manga/118316/
+  - https://anilist.co/manga/117964/
+
+### STRONG ONGOING — I Was Caught up in a Hero Summoning, but That World Is at Peace
+- Media: JP Web/Light Novel + ongoing Manga.
+- The story explicitly establishes polygamy as normal and later chapters show Kaito marrying Kuro; the work has multiple active romantic relationships rather than merely admirers.
+- AniList manga ID 112956 is Releasing and sourced from the Light Novel.
+- Because the source is still ongoing, do **not** label a final ending as complete.
+- Decision:
+  - Source: **ongoing True Harem candidate**.
+  - Manga: **source-only / ongoing** after content review.
+- Sources:
+  - https://anilist.co/manga/112956/
+  - https://www.webnovel.com/book/i-was-caught-up-in-a-hero-summoning-but-that-world-is-at-peace_27308986605108505/chapter-132---filled-with-happiness_73375813554208561
+  - https://toletbdt.com/agent/i-was-caught-up-in-a-hero-summoning-but-that-world-is-at-peace-wn/chapter-466
+
+### STRONG NOVEL — The Cannon Fodder Turns His Sister Into A Soaring Phoenix
+- NovelUpdates Polygamy completed listing marks it as polygamy.
+- Story text explicitly has Ye Anping discussing marrying **two or more wives**, and character references describe Pei Lianxue knowing about his relationships with multiple other heroines.
+- Decision: strong novel candidate; adaptation status/identity still needs resolution before any comic entry.
+- Sources:
+  - https://www.novelupdates.com/stag/polygamy/
+  - https://etherreads.com/the-cannon-fodder-turns-his-sister-into-a-soaring-phoenix-c170/
+
+### HOLD / REJECT STRICT — Release That Witch
+- NovelUpdates can surface it under Polygamy, but strict ending evidence does **not** support multiple confirmed wives.
+- Community ending documentation states Anna is the only confirmed wife; Nightingale living with them is not the same as a confirmed marriage/relationship.
+- Decision: **do not add** under strict True Harem unless primary text proving a second formal relationship is found.
+- Sources:
+  - https://releasethatwitch.fandom.com/f/t/Nightingale
+  - https://releasethatwitch.fandom.com/f
+
+### New systematic source
+NovelUpdates' Polygamy tag definition is unusually useful for strict filtering: it says the tag should only be used when the male protagonist is **married to more than one female at a time**. Completed, non-Adult works from this tag are now a primary discovery pool, but every result still needs content/adaptation verification.
+- https://www.novelupdates.com/stag/polygamy/?order=1&sort=1&status=2
