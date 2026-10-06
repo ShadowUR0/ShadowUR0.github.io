@@ -234,3 +234,58 @@ High priority because the source list already supplies a content class.
 ### New systematic source
 NovelUpdates' Polygamy tag definition is unusually useful for strict filtering: it says the tag should only be used when the male protagonist is **married to more than one female at a time**. Completed, non-Adult works from this tag are now a primary discovery pool, but every result still needs content/adaptation verification.
 - https://www.novelupdates.com/stag/polygamy/?order=1&sort=1&status=2
+
+
+## Second manual pass — additional verified candidates
+
+### STRONG CONFIRMED — Saijaku Muhai no Bahamut / Undefeated Bahamut Chronicle (Light Novel)
+- The final-volume epilogue explicitly describes Lux's **polygamy life**.
+- This is stronger than a generic harem tag: the ending itself uses polygamy wording.
+- The site already indexes the manga adaptation; add the Light Novel as a separate confirmed version after metadata import.
+- Sources:
+  - https://bakapervert.wordpress.com/saijaku-muhai-no-bahamut-vol-20-epilogue/
+  - https://bakapervert.wordpress.com/saijaku-muhai-no-bahamut-vol-19-afterword/
+
+### STRONG CONFIRMED — Garbage Brave (Light Novel)
+- Direct final-volume epilogue evidence: Canaan, Hannah, Antia, and Ichinose are all pregnant with Tsukuru's children.
+- This directly confirms a simultaneous multi-partner ending.
+- Manga adaptation remains source-only while ongoing.
+- Sources:
+  - https://nyx-translation.com/2021/01/13/garbage-brave-vol-4-epilogue/
+  - https://anilist.co/manga/118316/
+  - https://anilist.co/manga/117964/
+
+### STRONG — Long Live Summons!
+- NovelUpdates lists **Polygamy** and **Adapted to Manhua**.
+- The Polygamy tag definition on NovelUpdates requires the male protagonist to be married to more than one woman simultaneously.
+- Content is Ecchi/Mature, not automatically excluded, but the manhua itself still needs content/adaptation inspection before public import.
+- Decision:
+  - Novel: strong confirmed candidate.
+  - Manhua: source-only candidate pending metadata and content review.
+- Sources:
+  - https://www.novelupdates.com/series/long-live-summons/
+  - https://www.novelupdates.com/stag/adapted-to-manhua/
+
+### STRONG NOVEL — My Gene Evolves Infinitely
+- NovelUpdates: completed Chinese web novel.
+- Appears under the completed Polygamy tag, whose definition requires actual multiple simultaneous wives.
+- No reliable comic adaptation was resolved in this pass.
+- Decision: novel candidate only for now.
+- Source:
+  - https://www.novelupdates.com/series/my-gene-evolves-infinitely/
+
+### HOLD DUE CONTENT — I Became The Necromancer Of The Academy
+- NovelUpdates marks it completed and Polygamy.
+- However the COO status explicitly includes **12 Adult Version chapters** in addition to the main/side story.
+- Because this project excludes explicit adult material, do not import automatically.
+- It may be reconsidered only if the normal edition/main story can be cleanly separated from the adult-version side chapters.
+- Source:
+  - https://www.novelupdates.com/series/i-became-the-necromancer-of-the-academy/
+
+### STRICT REJECT — Release That Witch
+- Reconfirmed: Anna is the only explicitly confirmed wife.
+- Nightingale's ending is suggestive/ambiguous rather than a confirmed second marriage or formal relationship.
+- Do not include as strict True Harem.
+- Sources:
+  - https://releasethatwitch.fandom.com/f/t/Nightingale
+  - https://releasethatwitch.fandom.com/f
